@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">An aspiring Bioanalyst from Massachusetts</h3>
+<h3 align="left">Welcome to my brand new Github. I have switched over from my college account as of May 2025. Follow along this journey with me </h3>
 
 - 🔭 I’m currently working on **Pokemon Price Tracker**
 
